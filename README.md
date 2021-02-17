@@ -13,7 +13,7 @@
 
 授权测试用例:
 
-讲企业授权安全测试目标整理后放入url.txt
+将企业授权安全测试目标整理后放入url.txt
 
 java -jar SeeyonOAGetShell.jar
 
